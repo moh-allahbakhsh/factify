@@ -1,5 +1,5 @@
-# factify
-FactiFy (Factual Analysis and Content Truth Identification for You) is a groundbreaking open-source browser extension designed to create a safer, more transparent, and educational digital environment for children and young adults. 
+# Factify
+FactiFy (Factual Analysis and Content Truth Identification for You) is a groundbreaking open-source browser extension designed to create a safer, more transparent, and educational digital environment for children and young adults. This repository is the basic backend part of the Factify project. 
 Factify is committed to providing a safe and informative space for users. This repository contains a demonstration of a content safety tool we're developing to help us achieve that goal.
 
 ## What it Does
